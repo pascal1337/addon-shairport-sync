@@ -1,5 +1,5 @@
 {
-  "name": addon-shairport-sync",
-  "url": "https://github.com/pascal1337/addon-shairport-syn",
+  "name": "addon-shairport-sync",
+  "url": "https://github.com/pascal1337/addon-shairport-sync",
   "maintainer": "Pascal Heverhagen <pascal@heverhagen.rocks>"
 }
