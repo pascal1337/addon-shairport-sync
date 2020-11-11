@@ -60,8 +60,7 @@ RUN apk -U add \
  && rm -rf \
         /etc/ssl \
         /var/cache/apk/* \
-        /lib/apk/db/* \
-        /root/shairport-sync
+        /lib/apk/db/*
 
 # Copy root filesystem
 COPY rootfs /
